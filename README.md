@@ -1,3 +1,3 @@
 # CellularAutomata
-Implementated:
-# Conway's 'Game of Life'
+Implemented:
+* Conway's 'Game of Life'
